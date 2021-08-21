@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @truongbunday
-- 👀 I’m interested in football, music, deverlop solfware, eat, sleep, travel,... bla bla 
+- 👀 I’m interested in football, music, programming, eating, sleeping, traveling, ... bla bla
 - 🌱 I’m currently learning English, C++, Python..
 
 <!---
